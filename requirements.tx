@@ -1,4 +1,0 @@
-numpy>=1.18.0
-tensorflow>=2.4.0
-keras>=2.4.0
-matplotlib>=3.2.0
